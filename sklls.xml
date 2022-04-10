@@ -1,7 +1,7 @@
-My skills
-GitBush
-GitHub
-My Future skills 
-Postman
-Jmeter
-and other...
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <skils>git</skils>
+    <skils>postman</skils>
+    <skils>jmeter</skils>
+    <skils>other</skils>
+</root>

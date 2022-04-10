@@ -1,6 +1,11 @@
-Favorite movie - TAXI 2
-Favorite show - Supernatural
-Favorite food - fishburger
-I like summer
-I want to visit Poland
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <favorite_movie>Taxi</favorite_movie>
+    <favorite_show>Supernatural</favorite_show>
+    <food>pizza</food>
+    <food>burger</food>
+    <food>bread</food>
+    <season>spring</season>
+    <visit>Poland</visit>
+</root>
 

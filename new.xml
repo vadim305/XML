@@ -1,4 +1,7 @@
-I am Molchan Vadim
-I am 32
-I have 2 parrots
-My salary 350$
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <name>Molchan_Vadim_Igorevich</name>
+    <age>32</age>
+    <home_animals />
+    <future_salary>350</future_salary>
+</root>
