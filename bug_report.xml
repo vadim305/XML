@@ -1,8 +1,11 @@
-bug
-(Project) XML
-(Component) bug_report.xml
-Номер версии (Version) 0.1
-(Severity) S3 Значительный (Major)
-Приоритет (Priority) P2 Средний (Medium)
-Статус (Status) new
-Автор (Author) Molchan
+<root>
+   <author>Molchan</author>
+   <data>18_April_2022</data>
+   <platform>windows</platform>
+   <priority>low</priority>
+   <severite>low</severite>
+   <status>new</status>
+   <summary>text support pages has grammar mistakes</summary>
+   <tester>Molchan</tester>
+   <title>XML_example_bug</title>
+</root>
